@@ -3,8 +3,10 @@
     flex-direction: column;
 }
 body{
-    background-color: #eeeeee
+    background-image:url('../img/bg.jpg');
 }
-form{
-    /* border: 1px solid black; */
+.container{
+    background-color: black;
+    opacity: 78%;
+    color:white;
 }
